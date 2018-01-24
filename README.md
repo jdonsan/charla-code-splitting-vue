@@ -1,2 +1,2 @@
-# charla-code-splitting-vue
-Charla sobre cómo usar esta funcionalidad en VueJS
+# Charla 'Divide y V(u)encerás
+Charla sobre cómo usar la división de código en VueJS
