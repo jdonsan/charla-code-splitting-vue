@@ -1325,7 +1325,7 @@ header[role='banner'] {
 .logo {
   text-transform: lowercase; }
   .logo a {
-    background: url("../images/logos/logo.svg") no-repeat 0 0;
+    background: url("../images/icon.svg") no-repeat 0 0;
     background-size: 4.8rem;
     float: left;
     height: 4.8rem;
@@ -3179,7 +3179,7 @@ Slides - Backgrounds <section class="bg-primary">
   background-color: #3b5998; }
 
 [class*='bg-'] .bg-white {
-  color: #333;
+  color: #000;
   text-shadow: none; }
 
 /* BG Apple Keynote*/
